@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedParenthesis", "Bala
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{6B68C92D-CF13-4C7A-B5F9-C4A797BC07FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTextEditor", "SimpleTextEditor\SimpleTextEditor.csproj", "{DF9FB657-160F-4120-8CF7-CE26EB8135B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{6B68C92D-CF13-4C7A-B5F9-C4A797BC07FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B68C92D-CF13-4C7A-B5F9-C4A797BC07FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B68C92D-CF13-4C7A-B5F9-C4A797BC07FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF9FB657-160F-4120-8CF7-CE26EB8135B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9FB657-160F-4120-8CF7-CE26EB8135B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9FB657-160F-4120-8CF7-CE26EB8135B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9FB657-160F-4120-8CF7-CE26EB8135B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
